@@ -1,0 +1,52 @@
+.navbar-custom
+{
+    background-color: #0039A6;
+    color: white;
+    padding: 15px;
+    
+
+}
+#image
+{
+    padding-top: 30px;
+}
+#main
+{
+    padding-top:15px;
+}
+#myimage
+{
+    padding-left: 20px;
+    width: 25%;
+    height:30%;
+}
+#mycontent
+{
+    padding-right: 20px;
+    font-size: 15pt;
+}
+
+#inst
+{
+    padding-top: 20px;
+}
+#teachingimg
+{
+    padding-top: 60px;
+    padding-left: 100px;
+}
+#myalert1
+{
+    padding: 40px 30px 20px 0px;
+    border: 2px;
+    border-block-color: white;
+}
+#mycarousel
+{
+    background: grey;
+    color: black;
+}
+td
+{
+    text-align: center;
+}
